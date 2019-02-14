@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="textSize">50sp</dimen>
+    <string name="tab1">Tab1</string>
+    <string name="tab2">Tab2</string>
+    <string name="tab3">Tab3</string>
+</resources>
+
